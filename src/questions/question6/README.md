@@ -2,7 +2,7 @@
 
 ## Competitive Programming Practice
 
-### Question 5 - Find if a String whether a Palindrome (Using the Deque Interface)
+### Question 5 - Find whether a String is a Palindrome (Using the Deque Interface)
 
 **Problem**  
 Write a program that inputs a string from the user and checks whether the string is a palindrome.
